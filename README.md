@@ -1,3 +1,3 @@
 # Numerai
 
-Numeraiのファイル保存場所
+Numerai files
