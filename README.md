@@ -1,3 +1,3 @@
 # Numerai
 
-Numerai files
+Files related to Numerai
